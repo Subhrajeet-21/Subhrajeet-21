@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a B.Tech CSE student specializing in Artificial Intelligence and Machine Learning, passionate about building real-world solutions using data and intelligent systems.<br><br>I have worked on projects in Machine Learning, NLP, and Deep Learning<br><br>I enjoy solving problems, exploring new technologies, and applying AI concepts to practical applications.<br><br>Currently, I am focused on improving my skills in Deep Learning, and NLP.<br><br>Open to internships and opportunities in AI, ML, and Software Development.
+I am a B.Tech CSE student specializing in Artificial Intelligence and Machine Learning, passionate about building real-world solutions using data and intelligent systems.<br>I have worked on projects in Machine Learning, NLP, and Deep Learning<br>I enjoy solving problems, exploring new technologies, and applying AI concepts to practical applications.<br>Currently, I am focused on improving my skills in Deep Learning, and NLP.<br>Open to internships and opportunities in AI, ML, and Software Development.
 
 
 ## 🌐 Socials:
